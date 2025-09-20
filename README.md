@@ -1,30 +1,18 @@
-# Vegetable shop website
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dinesh-kumars-projects-52b088df/v0-vegetable-shop-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/hrKa5qa4EfS)
+# Online Vegetable Shop Website (Front-End)
 
 ## Overview
+This project is a fully functional e-commerce platform for an online vegetable shop. It features a responsive and user-friendly interface developed using HTML, CSS, and JavaScript. The website is integrated with a MySQL database to efficiently manage product information, dynamic content, and order processing.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Features
+- Responsive design suitable for both desktop and mobile devices
+- Browse and search fresh vegetables easily
+- View detailed product information with images and prices
+- Efficient order placement and processing workflow
+- Integration with MySQL database for real-time product and order data management
+- User-friendly interface for seamless shopping experience
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/dinesh-kumars-projects-52b088df/v0-vegetable-shop-website](https://vercel.com/dinesh-kumars-projects-52b088df/v0-vegetable-shop-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/hrKa5qa4EfS](https://v0.app/chat/projects/hrKa5qa4EfS)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Technologies Used
+- HTML5 for markup structure
+- CSS3 for styling and responsive design
+- JavaScript for interactivity and dynamic content
+- MySQL for backend database management
